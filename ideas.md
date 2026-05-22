@@ -1,10 +1,10 @@
 # Brainstorm de Design - Website Álvaro Paulino Chimbungule
 
 ## Contexto
-Website profissional para Álvaro Paulino Chimbungule, Professor & Consultor Linguístico | Tradutor, Intérprete & Revisor.
+Website profissional para Álvaro Paulino Chimbungule Professor & Consultor Linguístico | Tradutor | Intérprete & Revisor.
 
 Paleta de cores extraída:
-- **Azul Petróleo Escuro:** #0B242A (fundo principal, confiança, profissionalismo)
+- **Azul Escuro:** #191b38 (fundo principal, confiança, profissionalismo)
 - **Laranja/Dourado:** #D27C2C (destaque, energia, atenção)
 - **Branco:** #FFFFFF (legibilidade, clareza)
 - **Cinza Escuro:** #1A1A1A (textos, estrutura)
@@ -24,7 +24,7 @@ Modernismo corporativo com influência de design suíço—linhas limpas, hierar
 4. **Minimalismo inteligente**: Apenas o essencial, sem decoração gratuita
 
 ### Color Philosophy
-- **Azul Petróleo (#0B242A)** como cor primária—transmite autoridade, estabilidade e confiança profissional
+- **Azul Escuro (#191b38)** como cor primária—transmite autoridade, estabilidade e confiança profissional
 - **Laranja/Dourado (#D27C2C)** como accent—cria pontos de interesse sem sobrecarregar
 - **Branco (#FFFFFF)** como respiro visual—separa secções e melhora legibilidade
 - **Cinza (#1A1A1A)** para textos—contraste perfeito com fundos claros
@@ -72,7 +72,7 @@ Modernismo contemporâneo com toques de warmth—combina rigor estrutural com hu
 4. **Movimento constante**: Animações e transições em toda a experiência
 
 ### Color Philosophy
-- **Azul Petróleo (#0B242A)** como base confiável—representa expertise e profundidade
+- **Azul Escuro (#191b38)** como base confiável—representa expertise e profundidade
 - **Laranja/Dourado (#D27C2C)** como energia vital—representa criatividade e comunicação
 - **Branco com ligeiro tint** (off-white #F8F7F5) para warmth
 - **Gradientes**: Azul escuro → laranja em secções de destaque
@@ -121,7 +121,7 @@ Neoclassicismo digital—combina elegância clássica (tipografia serif, propor�
 4. **Refinamento tipográfico**: Tipografia é o protagonista
 
 ### Color Philosophy
-- **Azul Petróleo (#0B242A)** como cor nobre—representa tradição e expertise
+- **Azul Escuro (#191b38)** como cor nobre—representa tradição e expertise
 - **Laranja/Dourado (#D27C2C)** como detalhe precioso—acentos em elementos-chave
 - **Branco puro (#FFFFFF)** como espaço de respiração
 - **Bege claro** (#E8E4DC) para fundos secundários—warmth sofisticado
@@ -168,7 +168,7 @@ Após análise das três abordagens, **escolho a Resposta 1: Minimalismo Corpora
 5. **Acessibilidade**: Hierarquia clara beneficia utilizadores com dificuldades visuais
 
 ### Implementação
-- Paleta: Azul Petróleo (#0B242A), Laranja/Dourado (#D27C2C), Branco (#FFFFFF), Cinza (#1A1A1A)
+- Paleta: Azul Escuro (#191b38), Laranja/Dourado (#D27C2C), Branco (#FFFFFF), Cinza (#1A1A1A)
 - Tipografia: Playfair Display (títulos) + Inter (corpo)
 - Animações: Transições suaves, scale em cards, underline animado
 - Layout: Navegação minimalista, seções alternadas azul/branco, whitespace generoso
